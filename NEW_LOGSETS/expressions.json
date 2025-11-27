@@ -1,0 +1,39 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "27/11/2025 11:05:16",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "MERGE",
+      "DT_ATUALIZACAO_NREC" : "27/11/2025 11:05:16",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1144342",
+      "NM_USUARIO" : "jfperet",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "jfperet",
+      "CD_EXPRESSAO" : "1144342",
+      "DS_EXPRESSAO" : "Jonas - quinta feira",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "27/11/2025 11:05:16"
+    } ],
+    "DS_GLOSSARIO" : "Glossary expresssion testing.",
+    "NM_USUARIO" : "jfperet",
+    "NM_USUARIO_NREC" : "jfperet",
+    "CD_EXPRESSAO" : "1144342",
+    "DT_ATUALIZACAO" : "27/11/2025 11:05:16"
+  } ],
+  "DIC_EXPRESSAO_CUSTOM" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "27/11/2025 10:53:36",
+    "DS_LOCALE" : "en_AU",
+    "DS_IDIOMA" : "en",
+    "NR_SEQUENCIA" : "24802",
+    "NM_USUARIO" : "jfperet",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "jfperet",
+    "CD_EXPRESSAO" : "645083",
+    "DS_EXPRESSAO" : "Dep Test",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "27/11/2025 10:53:36"
+  } ]
+}
