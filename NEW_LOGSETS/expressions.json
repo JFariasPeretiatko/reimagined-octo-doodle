@@ -1,61 +1,38 @@
 {
-  "DIC_EXPRESSAO_CUSTOM" : [ {
-    "$operation" : "CREATE",
-    "DT_ATUALIZACAO_NREC" : "27/11/2025 10:53:36",
-    "DS_LOCALE" : "en_AU",
-    "DS_IDIOMA" : "en",
-    "NR_SEQUENCIA" : "24802",
-    "NM_USUARIO" : "jfperet",
-    "IE_SITUACAO" : "A",
-    "NM_USUARIO_NREC" : "jfperet",
-    "CD_EXPRESSAO" : "645083",
-    "DS_EXPRESSAO" : "Dep Test",
-    "DS_LAYER" : "CORE.CMDK_LTDA",
-    "DT_ATUALIZACAO" : "27/11/2025 10:53:36"
-  } ],
   "DIC_EXPRESSAO" : [ {
-    "$operation" : "CREATE",
-    "DT_ATUALIZACAO_NREC" : "27/11/2025 11:05:16",
+    "$operation" : "MERGE",
+    "DT_ATUALIZACAO_NREC" : "28/11/2025 14:03:07",
     "DIC_EXPRESSAO_IDIOMA" : [ {
-      "$operation" : "MERGE",
-      "DT_ATUALIZACAO_NREC" : "27/11/2025 11:05:16",
-      "DS_LOCALE" : "pt_BR",
-      "DS_IDIOMA" : "pt",
-      "NR_SEQUENCIA" : "1144342",
+      "$operation" : "UPDATE",
+      "DT_ATUALIZACAO_NREC" : "28/11/2025 14:03:07",
+      "DS_LOCALE" : "en_US",
+      "DS_IDIOMA" : "en",
+      "NR_SEQUENCIA" : "24822",
       "NM_USUARIO" : "jfperet",
       "IE_SITUACAO" : "A",
       "NM_USUARIO_NREC" : "jfperet",
-      "CD_EXPRESSAO" : "1144342",
-      "DS_EXPRESSAO" : "Jonas - quinta feira",
+      "CD_EXPRESSAO" : "1144374",
+      "DS_EXPRESSAO" : "Jonas st",
       "DS_LAYER" : "CORE.CMDK_LTDA",
-      "DT_ATUALIZACAO" : "27/11/2025 11:05:16"
-    } ],
-    "DS_GLOSSARIO" : "Glossary expresssion testing.",
-    "NM_USUARIO" : "jfperet",
-    "NM_USUARIO_NREC" : "jfperet",
-    "CD_EXPRESSAO" : "1144342",
-    "DT_ATUALIZACAO" : "27/11/2025 11:05:16"
-  }, {
-    "$operation" : "CREATE",
-    "DT_ATUALIZACAO_NREC" : "28/11/2025 13:49:22",
-    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "DT_ATUALIZACAO" : "28/11/2025 14:03:07"
+    }, {
       "$operation" : "MERGE",
-      "DT_ATUALIZACAO_NREC" : "28/11/2025 13:49:23",
+      "DT_ATUALIZACAO_NREC" : "28/11/2025 14:13:09",
       "DS_LOCALE" : "pt_BR",
       "DS_IDIOMA" : "pt",
       "NR_SEQUENCIA" : "1144374",
       "NM_USUARIO" : "jfperet",
       "IE_SITUACAO" : "A",
-      "NM_USUARIO_NREC" : "jfperet",
+      "NM_USUARIO_NREC" : "cmdk_adm",
       "CD_EXPRESSAO" : "1144374",
       "DS_EXPRESSAO" : "jfperet test",
       "DS_LAYER" : "CORE.CMDK_LTDA",
-      "DT_ATUALIZACAO" : "28/11/2025 13:49:23"
+      "DT_ATUALIZACAO" : "28/11/2025 14:03:07"
     } ],
     "DS_GLOSSARIO" : "Test geral expressao",
     "NM_USUARIO" : "jfperet",
     "NM_USUARIO_NREC" : "jfperet",
     "CD_EXPRESSAO" : "1144374",
-    "DT_ATUALIZACAO" : "28/11/2025 13:49:22"
+    "DT_ATUALIZACAO" : "28/11/2025 14:03:07"
   } ]
 }
