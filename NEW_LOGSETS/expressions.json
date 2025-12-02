@@ -34,5 +34,32 @@
     "NM_USUARIO_NREC" : "jfperet",
     "CD_EXPRESSAO" : "1144374",
     "DT_ATUALIZACAO" : "28/11/2025 14:03:07"
+  } ],
+  "DIC_EXPRESSAO_CUSTOM" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "28/11/2025 14:37:34",
+    "DS_LOCALE" : "pt_BR",
+    "DS_IDIOMA" : "pt",
+    "NR_SEQUENCIA" : "24823",
+    "NM_USUARIO" : "cmdk_adm",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "cmdk_adm",
+    "CD_EXPRESSAO" : "728040",
+    "DS_EXPRESSAO" : "Teste custom expressao is required",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "28/11/2025 14:37:34"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "02/12/2025 14:21:30",
+    "DS_LOCALE" : "es_CO",
+    "DS_IDIOMA" : "es",
+    "NR_SEQUENCIA" : "24863",
+    "NM_USUARIO" : "cmdk_adm",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "cmdk_adm",
+    "CD_EXPRESSAO" : "1003062",
+    "DS_EXPRESSAO" : "Cardiovascular teste usu\u00e1rio cmdk_adm",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "02/12/2025 14:21:30"
   } ]
 }
