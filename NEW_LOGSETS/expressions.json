@@ -1,74 +1,24 @@
 {
   "DIC_EXPRESSAO" : [ {
-    "$operation" : "CREATE",
-    "DT_ATUALIZACAO_NREC" : "27/11/2025 11:05:16",
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 11:06:37",
     "DIC_EXPRESSAO_IDIOMA" : [ {
-      "$operation" : "MERGE",
-      "DT_ATUALIZACAO_NREC" : "27/11/2025 11:05:16",
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 11:06:37",
       "DS_LOCALE" : "pt_BR",
       "DS_IDIOMA" : "pt",
-      "NR_SEQUENCIA" : "1144342",
-      "NM_USUARIO" : "jfperet",
-      "IE_SITUACAO" : "A",
-      "NM_USUARIO_NREC" : "jfperet",
-      "CD_EXPRESSAO" : "1144342",
-      "DS_EXPRESSAO" : "Jonas - quinta feira",
+      "NR_SEQUENCIA" : "1145052",
+      "NM_USUARIO" : "cmdk_adm",
+      "NM_USUARIO_NREC" : "cmdk_adm",
+      "CD_EXPRESSAO" : "1145052",
+      "DS_EXPRESSAO" : "Expressao teste localmente",
       "DS_LAYER" : "CORE.CMDK_LTDA",
-      "DT_ATUALIZACAO" : "27/11/2025 11:05:16"
+      "DT_ATUALIZACAO" : "10/12/2025 11:06:37"
     } ],
-    "DS_GLOSSARIO" : "Glossary expresssion testing.",
-    "NM_USUARIO" : "jfperet",
-    "NM_USUARIO_NREC" : "jfperet",
-    "CD_EXPRESSAO" : "1144342",
-    "DT_ATUALIZACAO" : "27/11/2025 11:05:16"
-  }, {
-    "$operation" : "CREATE",
-    "DT_ATUALIZACAO_NREC" : "28/11/2025 13:49:22",
-    "DIC_EXPRESSAO_IDIOMA" : [ {
-      "$operation" : "MERGE",
-      "DT_ATUALIZACAO_NREC" : "28/11/2025 13:49:23",
-      "DS_LOCALE" : "pt_BR",
-      "DS_IDIOMA" : "pt",
-      "NR_SEQUENCIA" : "1144374",
-      "NM_USUARIO" : "jfperet",
-      "IE_SITUACAO" : "A",
-      "NM_USUARIO_NREC" : "jfperet",
-      "CD_EXPRESSAO" : "1144374",
-      "DS_EXPRESSAO" : "jfperet test",
-      "DS_LAYER" : "CORE.CMDK_LTDA",
-      "DT_ATUALIZACAO" : "28/11/2025 13:49:23"
-    } ],
-    "DS_GLOSSARIO" : "Test geral expressao",
-    "NM_USUARIO" : "jfperet",
-    "NM_USUARIO_NREC" : "jfperet",
-    "CD_EXPRESSAO" : "1144374",
-    "DT_ATUALIZACAO" : "28/11/2025 14:03:07"
-  } ],
-  "DIC_EXPRESSAO_CUSTOM" : [ {
-    "$operation" : "CREATE",
-    "DT_ATUALIZACAO_NREC" : "28/11/2025 14:37:34",
-    "DS_LOCALE" : "pt_BR",
-    "DS_IDIOMA" : "pt",
-    "NR_SEQUENCIA" : "24823",
+    "DS_GLOSSARIO" : "expressao teste localmente ",
     "NM_USUARIO" : "cmdk_adm",
-    "IE_SITUACAO" : "A",
     "NM_USUARIO_NREC" : "cmdk_adm",
-    "CD_EXPRESSAO" : "728040",
-    "DS_EXPRESSAO" : "Teste custom expressao is required",
-    "DS_LAYER" : "CORE.CMDK_LTDA",
-    "DT_ATUALIZACAO" : "28/11/2025 14:37:34"
-  }, {
-    "$operation" : "CREATE",
-    "DT_ATUALIZACAO_NREC" : "02/12/2025 14:21:30",
-    "DS_LOCALE" : "es_CO",
-    "DS_IDIOMA" : "es",
-    "NR_SEQUENCIA" : "24863",
-    "NM_USUARIO" : "cmdk_adm",
-    "IE_SITUACAO" : "A",
-    "NM_USUARIO_NREC" : "cmdk_adm",
-    "CD_EXPRESSAO" : "1003062",
-    "DS_EXPRESSAO" : "Cardiovascular teste usu\u00e1rio cmdk_adm",
-    "DS_LAYER" : "CORE.CMDK_LTDA",
-    "DT_ATUALIZACAO" : "02/12/2025 14:21:30"
+    "CD_EXPRESSAO" : "1145052",
+    "DT_ATUALIZACAO" : "10/12/2025 11:06:37"
   } ]
 }
